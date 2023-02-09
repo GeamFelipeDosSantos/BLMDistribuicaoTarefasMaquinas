@@ -14,6 +14,10 @@ public class Tarefa {
         this.valorProcessamento = valorProcessamento;
     }
 
+    public Tarefa() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
     /**
      * @return the valorProcessamento
      */
