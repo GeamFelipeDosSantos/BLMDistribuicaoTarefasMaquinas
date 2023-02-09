@@ -35,6 +35,10 @@ public class MinimizadorTempo {
         gerarMakespanMaquinas(maquinas);
         imprimirMaquinasTarefas(maquinas);
     }
+    
+    private void equilibrarMakespan(){
+        
+    }
 
     
     
